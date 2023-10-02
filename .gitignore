@@ -30,3 +30,15 @@ test/bats/
 
 # Node.js build directory
 node_modules/
+
+
+# Editor backup files
+.*~
+*~
+*.bak
+
+# Virtual machine files
+*.iso
+*.box
+*.ova
+*.vmdk
